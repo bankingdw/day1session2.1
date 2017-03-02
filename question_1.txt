@@ -1,0 +1,10 @@
+class acad
+{
+public static void main(Sting args[])
+{
+int a=1,b=2;
+System.out.println("First number is:"+a);
+System.out.println("Second number is:"+b);
+System.out.println("Sum is:"+(a+b));
+}
+}

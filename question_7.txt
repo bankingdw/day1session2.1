@@ -1,0 +1,7 @@
+ Can you overload a method with the same return type?
+solution:
+we can overload with same return type but the type of arguments
+ should differ.
+if return type as well as arguments are of same type in different
+ functions, then it canot be overloaded.
+
